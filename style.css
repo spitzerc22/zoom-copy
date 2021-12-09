@@ -1,0 +1,163 @@
+.container{
+    min-width: 100%;
+}
+
+.darkNav{
+    display: flex;
+    justify-content: end;
+
+}
+
+.darkNav li{
+    list-style-type: none;
+    margin-left: 4%;
+}
+
+.darkUL {
+    width: 40%;
+    display: flex;
+    margin: 1%;
+}
+
+.lightNav{
+    display: flex;
+
+}
+
+.logoImg {
+    margin-left: 7%;
+}
+
+.lightUL1{
+    list-style-type: none;
+    display: flex;
+    margin-right: 26%;
+}
+
+.lightUL2{
+    list-style-type: none;
+    display: flex;
+    margin-left: -7%;
+}
+
+.lightUL1 li{
+    min-width: 39%;
+    margin: 2%;
+}
+
+.intro{
+    display: flex;
+    margin-top: 5%;
+}
+
+.encourageSignUp {
+    margin-left: 7%;
+}
+
+h1 {
+    width: 35%;
+}
+
+.slideshowImg {
+    border-radius: 3%;
+    box-shadow: 5px 10px 19px gray
+}
+
+.aboutZoom{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5%;
+}
+
+.aboutZoom img{
+    border-radius: 3%;
+}
+
+.zoomDescription{
+    box-shadow: 5px 10px 19px gray;
+}
+
+.zoomReviews {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 5%;
+}
+
+h2{
+    margin-top: 5%;
+}
+
+p {
+    text-align: center;
+}
+
+.why{
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-left: 37%;
+    margin-top: 5%;
+    border: gray 1px solid;
+    
+}
+
+.review {
+    border-radius: 3%;
+    box-shadow: 5px 10px 19px gray;
+}
+
+.randomReview {
+    text-align: center;
+    margin-top: 5%;
+}
+
+.customer{
+    border-radius: 3%;
+    box-shadow: 5px 10px 19px gray;
+}
+
+.req{
+    border: gray 1px solid;
+}
+
+.but{
+    margin-left: 1%;
+}
+
+.companySupport {
+    display: flex;
+    margin-top: 5%;
+}
+
+.companySupport span{
+    margin-right: 1%;
+}
+
+.trust{
+    padding: 12%;
+    padding-bottom: 22%;
+}
+
+.options{
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+}
+
+footer{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5%;
+    padding-top: 2%;
+}
+
+footer li{
+    list-style-type: none;
+}
+
+.language{
+    margin-bottom: 35%;
+}
+
+*{
+    font-weight:500;
+}
